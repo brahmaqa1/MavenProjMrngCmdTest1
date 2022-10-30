@@ -56,8 +56,8 @@ public class SearchForUserTC4 {
 			System.out.println("Home page is not  displayed successfully.Plz check username  and pwd");
 		}
 		
-		// ****************************************************
 		
+		System.out.println("Adding  this line for github ");
 		System.out.println("Click admin Link ");
 		driver.findElement(By.xpath("//span[text()='Admin']")).click();
 		
