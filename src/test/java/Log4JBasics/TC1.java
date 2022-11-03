@@ -18,6 +18,7 @@ public class TC1 {
 		log.info("TC ends here");
 		
 		System.out.println("Hi");
+		System.out.println(" added for merging");
 	
 		
 	}
